@@ -2,4 +2,4 @@
 
 https://app.diagrams.net/图床
 
-方便直接在vs code中编辑图片
+方便直接在本地编辑图片
